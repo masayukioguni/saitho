@@ -1,6 +1,6 @@
 # Saitho
 
-TODO: Write a gem description
+text a random that saitho said
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Saitho.say #カイエン乗りてぇ｡青山に土地買うってヤバイですか？　ビッグになろう
 
 ## Contributing
 
